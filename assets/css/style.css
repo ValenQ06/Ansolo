@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(185, 130, 236);
+}
+
+.titulo{
+    color:#3069e4;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.texto{
+    color: #0a2544dc;
+    font-family: verdana;
+}
+
+.texto2{
+    color: #f0701adc;
+    font-family: verdana;
+}
+
+.image1{
+    width: 150px;
+    height: 100px;
+    display:block;
+    margin: auto;
+}
+
+.btn {
+    background-color: #22b4d8; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display:block;
+    margin: auto;
+  }
